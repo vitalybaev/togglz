@@ -12,6 +12,7 @@ table.feature-overview td.feature-strategy, table.feature-overview th.feature-st
     text-align: left;
     width: 30%;
     max-width: 400px;
+    overflow-wrap: anywhere;
 }
 
 table.feature-overview td.feature-actions, table.feature-overview th.feature-actions {
